@@ -1,0 +1,28 @@
+# Arquivos de compilação
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+/bin/
+/out/
+/target/
+
+# Arquivos de IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
